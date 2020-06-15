@@ -3,7 +3,7 @@ Bu Araç Etik Hacker Olma Kursunda Trojan Oluşturmada Sıkıntı Yaşayan Öğr
 Araç Herhangi Bir Kurulum Gerektirmez,
 * git clone https://github.com/AzizKpln/TrojanBash-Udemy.git
 * cd TrojanBash-Udemy/
-* chmod +x trojanolusturusu.sh
-* ./trojanolusturucu.sh 
+* chmod +x trojan_olusturusu.sh
+* ./trojan_olusturucu.sh 
 
 yukarıdaki şekilde kullanabilirsiniz
